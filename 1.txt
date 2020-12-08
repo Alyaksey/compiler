@@ -1,0 +1,14 @@
+do
+else
+false
+for
+if
+read
+then
+to
+true
+while
+write
+!
+$
+%

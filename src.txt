@@ -1,0 +1,5 @@
+{ % a,b; !c,d,i; a ass 1E-4; read(c); if c>0 then write(1) else write(0); for i ass 0 to i=5 do read(b)
+write(b)
+a ass d/i
+while d<>1111B do d ass d+1B
+write(d);}
